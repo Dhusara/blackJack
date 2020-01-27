@@ -1,2 +1,2 @@
-# blackJack
-BlackJack with JS, HTML, CSS and Bootstrap
+BlackJack Game
+BlackJack with JS, HTML, CSS and Bootstrap.
